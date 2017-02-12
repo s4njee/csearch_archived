@@ -1,0 +1,15 @@
+.searchresults-component {
+    margin-top:50px;
+  border: 1px dashed #f00;
+}
+.searchresult-component a:link,.searchresult-component a:visited{
+    color:#FFF;
+}
+.voteresult-component a:link,.voteresult-component a:visited{
+    color:#FFF;
+}
+.searchresult-component a:hover, .voteresult-component a:hover{
+    color:#AAA!important;
+    text-decoration:none!important;
+}
+

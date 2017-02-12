@@ -1,0 +1,40 @@
+.voteresult-component {
+}
+.votes{
+    display:flex;
+    margin-bottom:0px;
+}
+.votes h4, votes h6
+{
+    margin-right:10px;
+    margin-bottom: 0px;
+}
+.plus{
+    color:green;
+}
+.minus{
+    color: red;
+}
+.other{
+    color:#BBB;
+}
+.votes h6
+{
+    margin-top:5px;
+}
+.textlink a{
+    margin-right: 5px;
+}
+.textlink{
+    font-size:12px;
+}
+.searchresult-component .textlink a:link{
+    color: #7191ad!important;
+}
+.textlink span
+{
+    border-left:2px solid white;
+    padding-left:5px;
+    margin-right:10px;
+    font-weight:bold;
+}

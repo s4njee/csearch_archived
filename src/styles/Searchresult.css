@@ -1,0 +1,31 @@
+.searchresult-component {
+    display:inline-flex;
+    width:50%;
+    justify-content:center;
+    flex-direction:column;
+}
+.title{
+    width:80%;
+    align-items:center;
+    margin:auto;
+    margin-top:20px;
+}
+.text{
+    width:80%;
+    align-items:center;
+    margin:auto;
+    font-size:10px;
+}
+.textlink{
+    font-size:12px;
+}
+.voteresult-component .textlink a:link{
+    color: #7191ad!important;
+}
+.textlink span
+{
+    border-left:2px solid white;
+    padding-left:5px;
+    margin-right:10px;
+    font-weight:bold;
+}
